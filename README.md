@@ -3,7 +3,7 @@
 Solutions to various [Project Euler](https://projecteuler.net) Problems written in Clojure
 
 ## Problems Solved
-- Problem 31: [Description](https://projecteuler.net/problem=31) and [Solution](src/project-euler/problem31.clj)
+- Problem 31: [Description](https://projecteuler.net/problem=31) and [Solution](./src/project_euler/problem31.clj)
 
 ## License
 
